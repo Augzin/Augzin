@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Augzin
-- 👀 I’m interested in C#
+- 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning from Le Wagon
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me augi.maleka@hotmail.com
